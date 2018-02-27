@@ -3278,7 +3278,7 @@
 		}
         
         .banner.style1 .profile{
-        	margin: 10rem 4rem 8rem 4rem;
+        	margin: 13rem 4rem 13rem 4rem;
         }
 		.banner.style1 .image {
 			-moz-flex-grow: 0;
@@ -3303,7 +3303,7 @@
 				-ms-object-position: center;
 				object-position: center;
 				display: block;
-				position: absolute;
+				position: static;
 				top: 0;
 				left: 0;
 				width: 100%;
