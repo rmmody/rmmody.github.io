@@ -3278,7 +3278,8 @@
 		}
         
         .banner.style1 .profile{
-        	margin: 13rem 4rem 13rem 4rem;
+        	/*margin: 13rem 4rem 13rem 4rem;*/
+        	margin: 15vw 4vw 15vw 4vw;
         }
 		.banner.style1 .image {
 			-moz-flex-grow: 0;
